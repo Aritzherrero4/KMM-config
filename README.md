@@ -18,7 +18,7 @@ chmod +x config.sh
 3. Exekutatu config.sh administrazio baimenekin:
 
 ```
-sudo config.sh
+sudo ./config.sh
 ```
 ## Egileak
 Aritz Herrero eta Pablo Corral
