@@ -20,5 +20,14 @@ chmod +x config.sh
 ```
 sudo ./config.sh
 ```
+
+## Utils
+### mp4ToDash.sh
+MP4 formatuan dagoen bideo batetik abiatuta, kalitate ezberdineko kopiak sortu eta .mpd manifest fitxategia sortzeko script-a.
+Erabilera:
+```
+./mp4ToDash.sh <bideoa.mp4>
+```
+
 ## Egileak
 Aritz Herrero eta Pablo Corral
